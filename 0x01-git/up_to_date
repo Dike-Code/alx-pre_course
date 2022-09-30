@@ -1,4 +1,1 @@
-git init
-git status
-git config
-git commit.
+$ git commit -m "How to up to date in git"
