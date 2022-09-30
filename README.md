@@ -1,9 +1,5 @@
 
 ## My first readme
 ```
-git init
-git status
-git config
-git commit
-git push
+Persistency is the key to any worthwhile achievement
 ```
